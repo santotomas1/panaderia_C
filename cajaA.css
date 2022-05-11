@@ -1,0 +1,106 @@
+body{
+    background-image: url('trigo3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+header {
+    border-radius: 10px;
+
+}
+
+h1{
+    background-color: burlywood;
+    text-align: center;
+    border-style: groove;
+    border-color: chocolate;
+    margin: auto;
+    border-radius: 10px;
+}
+
+nav{
+    background-color: chocolate;
+    text-align: center;
+    border-style: solid;
+    width: auto;
+    border-radius: 10px;
+}
+
+div{
+    width: auto;
+}
+
+footer{
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+aside{
+    height: auto;
+}
+
+.clrearfix{
+    clear: both;
+}
+#caja1{
+    background-color: blanchedalmond;
+    float: none;
+    width: auto;
+    float: none;
+    border-radius: 10px;
+}
+
+#caja2{
+    margin-top: 200px; 
+    text-align: center;
+    background-color: blanchedalmond;
+    float: left;
+    width: 900px;
+    height: 350px;
+    border-color: chocolate;
+    border-style: double;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+
+
+#caja3{
+    margin-top: 200px; 
+    text-align: center;
+    background-color: blanchedalmond;
+    float: right;
+    width: 900px;
+    height: 350px;
+    border-color: chocolate;
+    border-style: double;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+#caja4{
+    background-color: blanchedalmond;
+    width: 100%;
+    border-color: chocolate;
+    border-style: none;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+button{
+    cursor: pointer;
+}
+
+textarea{
+    width: 400px;
+    height: 200px;
+    
+}
